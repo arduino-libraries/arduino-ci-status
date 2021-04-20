@@ -68,6 +68,7 @@ Arduino CI Status
 | [USBHost](https://github.com/arduino-libraries/USBHost) | [![Compile Examples status](https://github.com/arduino-libraries/USBHost/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino-libraries/USBHost/actions/workflows/compile-examples.yml) |
 | [WiFi](https://github.com/arduino-libraries/WiFi) | [![Compile Examples status](https://github.com/arduino-libraries/WiFi/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino-libraries/WiFi/actions/workflows/compile-examples.yml) |
 | [WiFi101](https://github.com/arduino-libraries/WiFi101) | [![Compile Examples status](https://github.com/arduino-libraries/WiFi101/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino-libraries/WiFi101/actions/workflows/compile-examples.yml) |
+| [WiFiNINA](https://github.com/arduino-libraries/WiFiNINA) | [![Compile Examples status](https://github.com/arduino-libraries/WiFiNINA/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino-libraries/WiFiNINA/actions/workflows/compile-examples.yml) |
 
 | Arduino Boards Platform | ✔️ / ❌ |
 |:----------:|:------:|
