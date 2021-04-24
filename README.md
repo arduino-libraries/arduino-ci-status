@@ -80,3 +80,4 @@ Arduino CI Status
 | Arduino Sketches | ✔️ / ❌ |
 |:----------:|:------:|
 | [arduino-examples](https://github.com/arduino/arduino-examples) | [![Compile Examples status](https://github.com/arduino/arduino-examples/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/arduino-examples/actions/workflows/compile-examples.yml) |
+| [ArduinoTensorFlowLiteTutorials](https://github.com/arduino/ArduinoTensorFlowLiteTutorials) | [![Compile Examples status](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/actions/workflows/compile-sketches.yml/badge.svg)](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/actions/workflows/compile-sketches.yml) |
