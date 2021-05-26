@@ -81,6 +81,7 @@ Arduino CI Status
 
 | Arduino Boards Platform | ✔️ / ❌ |
 |:----------:|:------:|
+| [ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-avr/actions/workflows/compile-platform-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-avr/actions/workflows/compile-platform-examples.yml) |
 | [ArduinoCore-mbed](https://github.com/arduino/ArduinoCore-mbed) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-mbed/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-mbed/actions/workflows/compile-examples.yml) |
 | [ArduinoCore-megaavr](https://github.com/arduino/ArduinoCore-megaavr) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-megaavr/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-megaavr/actions/workflows/compile-examples.yml) |
 | [ArduinoCore-samd](https://github.com/arduino/ArduinoCore-samd) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-samd/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-samd/actions/workflows/compile-examples.yml) |
