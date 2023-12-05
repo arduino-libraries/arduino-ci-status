@@ -95,6 +95,7 @@ Arduino CI Status
 | [ArduinoCore-mbed](https://github.com/arduino/ArduinoCore-mbed) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-mbed/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-mbed/actions/workflows/compile-examples.yml) |
 | [ArduinoCore-megaavr](https://github.com/arduino/ArduinoCore-megaavr) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-megaavr/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-megaavr/actions/workflows/compile-examples.yml) |
 | [ArduinoCore-samd](https://github.com/arduino/ArduinoCore-samd) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-samd/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-samd/actions/workflows/compile-examples.yml) |
+| [ArduinoCore-renesas](https://github.com/arduino/ArduinoCore-renesas) | [![Compile Examples status](https://github.com/arduino/ArduinoCore-renesas/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/arduino/ArduinoCore-renesas/actions/workflows/compile-examples.yml) |
 
 | Arduino Sketches | ✔️ / ❌ |
 |:----------:|:------:|
